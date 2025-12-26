@@ -1,0 +1,12 @@
+REPO_TAGLINE: Digital signal processing • Fourier analysis • filtering
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: notes
+SITE_URL: https://academic-codex.github.io/SEL0615-Processamento-Digital-Sinais
+
+BG_1: "#120A1F"
+BG_2: "#2A1740"
+TEXT_MAIN: "#F3E8FF"
+TEXT_MUTED: "#C4B5FD"
+ACCENT: "#A78BFA"
+CARD_RADIUS: "18"

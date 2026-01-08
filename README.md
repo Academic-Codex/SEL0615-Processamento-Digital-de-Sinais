@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/SEL0615-Processamento-Digital-de-Sinais">
-    <img src=".github/readme/hero.svg?v=2026-01-08T00:48:34.224217Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-08T01:40:45.718532Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
